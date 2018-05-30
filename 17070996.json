@@ -1,1 +1,16 @@
-{}
+{
+    "experiments": {
+        "90000": {
+            "excluded_flag": 1,
+            "key_value_pairs": []
+        },
+        "90001": {
+            "excluded_flag": 1,
+            "key_value_pairs": []
+        },
+        "90002": {
+            "excluded_flag": 1,
+            "key_value_pairs": []
+        }
+    }
+}
