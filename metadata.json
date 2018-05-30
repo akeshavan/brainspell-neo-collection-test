@@ -1,0 +1,14 @@
+{
+    "description": "test description",
+    "exclusion_criteria": [
+        "d"
+    ],
+    "inclusion_criteria": [
+        "d"
+    ],
+    "search_to_pmids": {},
+    "tags": [
+        "Attentional State"
+    ],
+    "unmapped_pmids": []
+}
