@@ -6,12 +6,21 @@
                 {
                     "key": "test",
                     "value": "1"
+                },
+                {
+                    "key": "",
+                    "value": ""
                 }
             ]
         },
         "90001": {
             "excluded_flag": 1,
-            "key_value_pairs": []
+            "key_value_pairs": [
+                {
+                    "key": "another",
+                    "value": "one"
+                }
+            ]
         }
     }
 }
